@@ -1,6 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://bcindeb5bakb3"]
 
-[ext_resource type="Script" path="res://Scripts/Things/TunnelObjects/THNotePlay.cs" id="1_e4xxi"]
+[ext_resource type="Script" uid="uid://ch26pxg62awrb" path="res://Scripts/Things/TunnelObjects/THNotePlay.cs" id="1_e4xxi"]
 [ext_resource type="Texture2D" uid="uid://cfm2r0ha81eum" path="res://_Assets/Textures/Notes/SwipeCCW.png" id="2_yb0qd"]
 [ext_resource type="Shader" uid="uid://dm5rgp78v61ha" path="res://Shaders/SwipeArrow.tres" id="3_k16x0"]
 [ext_resource type="PackedScene" uid="uid://jn0eb8txbjro" path="res://Things/TunnelObjects/Notes/SwipeArrow.tscn" id="3_smdjm"]

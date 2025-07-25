@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://bqhdw2o5vq7ny"]
 
-[ext_resource type="Script" path="res://Scripts/Scenes/DebugChartLoader.cs" id="1_hjgpd"]
+[ext_resource type="Script" uid="uid://brdqx8ovl8vba" path="res://Scripts/Scenes/DebugChartLoader.cs" id="1_hjgpd"]
 
 [node name="DebugChartLoader" type="MarginContainer" node_paths=PackedStringArray("pathsLine", "songsButton", "soundButton", "difficultyButton", "playButton")]
 anchors_preset = 15

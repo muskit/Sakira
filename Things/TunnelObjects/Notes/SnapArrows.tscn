@@ -1,6 +1,6 @@
 [gd_scene load_steps=26 format=3 uid="uid://digltkd2gj66n"]
 
-[ext_resource type="Script" path="res://Scripts/Things/TunnelObjects/SnapArrows.cs" id="1_dqasq"]
+[ext_resource type="Script" uid="uid://dnb8ssjcrrhgs" path="res://Scripts/Things/TunnelObjects/SnapArrows.cs" id="1_dqasq"]
 [ext_resource type="Shader" uid="uid://b1yf18ux4edj2" path="res://Shaders/SnapArrow.tres" id="1_dxmi1"]
 [ext_resource type="Texture2D" uid="uid://cedfe12weahhb" path="res://_Assets/Textures/Notes/SnapArrow.png" id="2_dipvr"]
 

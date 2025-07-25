@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://dmaf7ww28ek72"]
 
-[ext_resource type="Script" path="res://Scripts/Things/TunnelObjects/THNotePlay.cs" id="1_o1r8c"]
+[ext_resource type="Script" uid="uid://ch26pxg62awrb" path="res://Scripts/Things/TunnelObjects/THNotePlay.cs" id="1_o1r8c"]
 [ext_resource type="Texture2D" uid="uid://cn8esiei5u0hf" path="res://_Assets/Textures/Notes/Chain.png" id="2_i26u3"]
 
 [node name="NoteChain" type="Control" node_paths=PackedStringArray("noteBase")]

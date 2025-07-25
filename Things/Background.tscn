@@ -1,8 +1,8 @@
 [gd_scene load_steps=12 format=3 uid="uid://cyetvgmwnoy8l"]
 
-[ext_resource type="Shader" path="res://Shaders/Cutout2D.gdshader" id="1_f6ion"]
+[ext_resource type="Shader" uid="uid://c5t1wm5d8mhf5" path="res://Shaders/Cutout2D.gdshader" id="1_f6ion"]
 [ext_resource type="Texture2D" uid="uid://dkohutwp0yujj" path="res://_Assets/Textures/HitLine/BGLine.png" id="1_w0gbp"]
-[ext_resource type="Script" path="res://Scripts/Things/TunnelObjects/Background.cs" id="2_0fgoc"]
+[ext_resource type="Script" uid="uid://xwfe2c8403fs" path="res://Scripts/Things/TunnelObjects/Background.cs" id="2_0fgoc"]
 
 [sub_resource type="ViewportTexture" id="ViewportTexture_atol7"]
 viewport_path = NodePath("Segment Masks")

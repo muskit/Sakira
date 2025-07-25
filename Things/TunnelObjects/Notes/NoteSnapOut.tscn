@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://dqw7av6ummhib"]
 
-[ext_resource type="Script" path="res://Scripts/Things/TunnelObjects/THNotePlay.cs" id="1_mhn02"]
+[ext_resource type="Script" uid="uid://ch26pxg62awrb" path="res://Scripts/Things/TunnelObjects/THNotePlay.cs" id="1_mhn02"]
 [ext_resource type="Texture2D" uid="uid://cdui66l8fg6rg" path="res://_Assets/Textures/Notes/SnapOut.png" id="2_6llgl"]
 [ext_resource type="PackedScene" uid="uid://digltkd2gj66n" path="res://Things/TunnelObjects/Notes/SnapArrows.tscn" id="3_khdro"]
 
