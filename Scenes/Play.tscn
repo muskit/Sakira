@@ -63,13 +63,13 @@ albedo_texture = SubResource("ViewportTexture_ln6xl")
 uv1_scale = Vector3(-1, 1, 1)
 uv1_offset = Vector3(0, -0.001, 0)
 
-[sub_resource type="ViewportTexture" id="ViewportTexture_w20vk"]
-viewport_path = NodePath("Mask")
+[sub_resource type="ViewportTexture" id="ViewportTexture_ek1d2"]
+viewport_path = NodePath("Segment Masks")
 
-[sub_resource type="ShaderMaterial" id="ShaderMaterial_tc5ib"]
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_r5y0w"]
 resource_local_to_scene = true
 shader = ExtResource("3_rjbyl")
-shader_parameter/mask = SubResource("ViewportTexture_w20vk")
+shader_parameter/mask = SubResource("ViewportTexture_ek1d2")
 
 [sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_5ymar"]
 blend_mode = 3
@@ -167,10 +167,8 @@ anchor_mode = 0
 editor_draw_screen = false
 
 [node name="Background" parent="2D Viewport/Viewport Control" instance=ExtResource("2_8g6gv")]
-material = SubResource("ShaderMaterial_tc5ib")
+material = SubResource("ShaderMaterial_r5y0w")
 layout_mode = 1
-offset_top = -1920.0
-offset_right = 1920.0
 
 [node name="Holds ViewportView" type="SubViewportContainer" parent="2D Viewport/Viewport Control"]
 layout_mode = 0

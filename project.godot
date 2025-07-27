@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="WacK"
+config/name="Sakira"
 run/main_scene="res://Scenes/_STARTUP.tscn"
 config/features=PackedStringArray("4.4", "C#", "Mobile")
 config/icon="res://icon.svg"
@@ -25,7 +25,7 @@ window/vsync/vsync_mode=2
 
 [dotnet]
 
-project/assembly_name="WacK"
+project/assembly_name="Sakira"
 
 [rendering]
 
